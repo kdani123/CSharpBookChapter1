@@ -1,4 +1,4 @@
-# CSharpBookChapter1
+# CSharpBookChapter1 \n
 Solution to exercies in Chapter 1 of the Bulgarian C# book.
 Exerice 2: 
 Namespace: Represents the standard input, output, and error streams for console applications. This class cannot be inherited.
